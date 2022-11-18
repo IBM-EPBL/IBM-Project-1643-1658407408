@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background-image: url('six.jpg');
+    color:white;
+}
+
+.container{
+    padding:40px;
+    position:absolute;
+    width:25%;
+    top:25%;
+    left:36%;
+    height:420px;
+    background-color: rgb(80, 79, 79);
+    border-radius: 30px;
+}
+
+.big{
+    position:absolute;
+    padding: 40px;
+    height:90%;
+    width:1520px;
+
+}
+
+.mass{
+    height:200px;
+}
