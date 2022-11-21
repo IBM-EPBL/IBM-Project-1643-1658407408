@@ -11,4 +11,4 @@ Built a page for our website ,trained our IBM chat-bot to facilitate the job/ski
 ## Screenshots are added in Report 
 
 
-and sprint 1 done!!!!
+and sprint 2 done!!!!
