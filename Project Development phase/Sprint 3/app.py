@@ -1,7 +1,7 @@
 from flask import Flask,render_template,request,session,logging,url_for,redirect,flash
 from sqlalchemy import create_engine
 from sqlalchemy.orm import scoped_session,sessionmaker
-#from sqlalchemy.sql import exists
+from sqlalchemy.sql import exists
 
 from passlib.hash import sha256_crypt
 
